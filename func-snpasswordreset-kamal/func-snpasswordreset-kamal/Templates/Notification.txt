@@ -1,0 +1,67 @@
+<html>
+
+<head>
+<title>Untitled-2</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+td {
+font-family: EMprint;
+font-size: 10.0pt;
+color: #333;
+text-align: left;
+padding: 0px 25px;
+}
+
+b {
+font-weight: 600;
+}
+
+a {
+
+text-decoration: none;
+
+}
+</style>
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table id="Table_01" style="padding: 10px;">
+<tr>
+<td style="border: solid #DDDDDD 1.0pt;padding: 0;">
+<table id="Table_02" width="640" height="550" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td height="68" colspan="3" style="text-align: right;"><img width="120" height="23"
+src="https://brandcenter.exxonmobil.com/-/media/OBC/Assets/Logo-and-linkage/Exxon-logo/exmo_red.png?usecustomfunctions=1&centercrop=1"></td>
+</tr>
+<tr>
+<td style="background: #2a549c;height: 100px; width: 618px; color:white; font-size: larger; font-weight: bold; padding-bottom: 20px;" colspan="3" height="200px">[Subject]</td>
+</tr>
+<tr><td style="padding-top: 20px; padding-bottom: 20px;">
+    <p>Hi,</p>
+    <div>
+    <p>please click the
+    <a 
+     href="[webappurl]" target="_blank"> link </a>
+     to get the LanId password</p>
+    </div>
+</td></tr>
+
+<tr>
+
+</tr>
+<tr>
+
+</tr>
+</tr>
+
+</table>
+</td>
+</tr>
+
+
+</table>
+
+</body>
+
+</html>
