@@ -1,0 +1,11 @@
+<div class="tile" *ngIf="message">
+  <p>{{message}}</p>
+</div>
+
+<div class="input" *ngIf="!message">
+  <div class="input__overlay" [class.overlay-content]="showPassword" id="input-overlay"></div>
+
+  <i class='bx bx-lock-alt input__lock'></i>
+  <input [type]="inputType" placeholder="Loading..."  [(ngModel)]="password" class="input__password" id="input-pass">
+  <i class='bx bx-hide input__icon' [class.bx-show]="showPassword" id="input-icon" (click)="togglePassword()"></i>
+</div>
